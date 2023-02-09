@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "name": "typescriptman-wannabe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

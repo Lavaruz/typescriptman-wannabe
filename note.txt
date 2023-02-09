@@ -1,0 +1,1 @@
+you cant open ts and js in the same window
