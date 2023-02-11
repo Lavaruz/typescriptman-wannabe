@@ -1,1 +1,8 @@
 you cant open ts and js in the same window
+
+"tsc --target es2015 hello.ts" for compile in specific js version
+
+tsc --noEmitOnError hello.ts for no emit to js on error
+
+TYPE VS INTERFACE
+type cannot be re-opened to add new properties vs an interface which is always extendable.
