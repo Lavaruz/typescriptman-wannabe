@@ -6,3 +6,6 @@ tsc --noEmitOnError hello.ts for no emit to js on error
 
 TYPE VS INTERFACE
 type cannot be re-opened to add new properties vs an interface which is always extendable.
+
+! = non null,,,, ex. square.radius! ** 2
+? = optional,,,, ex. circle.radius? : number
